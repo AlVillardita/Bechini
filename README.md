@@ -1,4 +1,4 @@
-Bechini
+LiveBet!
 =======
 
-Progetto per Concurrent and distributed systems
+A project on Concurrent and distributed systems.
